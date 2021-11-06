@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tictactoe/static/css/main.2db05fcb.chunk.css",
+    "main.js": "/tictactoe/static/js/main.8380bf54.chunk.js",
+    "main.js.map": "/tictactoe/static/js/main.8380bf54.chunk.js.map",
+    "runtime-main.js": "/tictactoe/static/js/runtime-main.2e286759.js",
+    "runtime-main.js.map": "/tictactoe/static/js/runtime-main.2e286759.js.map",
+    "static/js/2.70c84e08.chunk.js": "/tictactoe/static/js/2.70c84e08.chunk.js",
+    "static/js/2.70c84e08.chunk.js.map": "/tictactoe/static/js/2.70c84e08.chunk.js.map",
+    "static/js/3.256a4e0d.chunk.js": "/tictactoe/static/js/3.256a4e0d.chunk.js",
+    "static/js/3.256a4e0d.chunk.js.map": "/tictactoe/static/js/3.256a4e0d.chunk.js.map",
+    "index.html": "/tictactoe/index.html",
+    "static/css/main.2db05fcb.chunk.css.map": "/tictactoe/static/css/main.2db05fcb.chunk.css.map",
+    "static/js/2.70c84e08.chunk.js.LICENSE.txt": "/tictactoe/static/js/2.70c84e08.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tictactoe/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e286759.js",
+    "static/js/2.70c84e08.chunk.js",
+    "static/css/main.2db05fcb.chunk.css",
+    "static/js/main.8380bf54.chunk.js"
+  ]
+}
