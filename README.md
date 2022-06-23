@@ -5,7 +5,7 @@ It is Tic-Tac-Toe game and Calculator
 
 ### Tech Stack
 
-**Client:** HTML, CSS, JAVASCRIPT
+**Client:** HTML, CSS, JAVASCRIPT, React
 
 **Server:** Nothing
 
