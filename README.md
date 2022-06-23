@@ -1,7 +1,7 @@
 # # Hi, I'm Nitin! 👋, Tictactoe
-## _Tic-Tac-Toe, and Calculator_
+## _Tic-Tac-Toe game_
 
-It is Tic-Tac-Toe game and Calculator
+It is Tic-Tac-Toe game 
 
 ### Tech Stack
 
